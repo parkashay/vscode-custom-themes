@@ -7,8 +7,9 @@
   "workbench.activityBar.location": "top",
   "workbench.secondarySideBar.showLabels": false,
   "editor.minimap.renderCharacters": false,
+  "editor.minimap.autohide": true,
   "editor.cursorSmoothCaretAnimation": "on",
-  // "editor.cursorStyle": "block",
+  "editor.cursorStyle": "block",
   "editor.smoothScrolling": true,
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
@@ -633,7 +634,7 @@
     "editorMultiCursor.primary.background": "#16B673", // type:accent
     "editorMultiCursor.secondary.foreground": "#16B673", // type:accent
     "editorMultiCursor.secondary.background": "#16B673", // type:accent
-    "editor.placeholder.foreground": "#f0f",
+    "editor.placeholder.foreground": "#888888",
     "editor.compositionBorder": "#f0f",
     //#region---highlight
     "editor.findMatchBackground": "#16B67388", // type:accent
@@ -867,7 +868,7 @@
     "terminal.findMatchBorder": "#16B67300", // type:accent
     "terminal.findMatchHighlightBackground": "#16B67333", // type:accent
     "terminal.findMatchHighlightBorder": "#16B67300", // type:accent
-    "terminal.hoverHighlightBackground": "#f0f",
+    "terminal.hoverHighlightBackground": "#27272750",
     "terminalCursor.background": "#171717", // type:background
     "terminalCursor.foreground": "#16B673", // type:accent
     "terminal.dropBackground": "#16B67344", // type:accent
@@ -944,11 +945,11 @@
     // "editorSuggestWidget.selectedBackground": "#0f0f0f", // type:background
     "editorSuggestWidget.selectedForeground": "#dddddd", // type:foreground
     "editorSuggestWidget.selectedIconForeground": "#16B673", // type:accent
-    "editorSuggestWidgetStatus.foreground": "#f0f",
+    "editorSuggestWidgetStatus.foreground": "#474747",
     "editorHoverWidget.foreground": "#dddddd", // type:foreground
     "editorHoverWidget.background": "#272727", // type:background
     "editorHoverWidget.border": "#474747", // type:background
-    "editorHoverWidget.highlightForeground": "#f0f",
+    "editorHoverWidget.highlightForeground": "#474747",
     "editorHoverWidget.statusBarBackground": "#272727", // type:background
     "editorGhostText.border": "#16B67300", // type:accent
     "editorGhostText.background": "#16B67333", // type:accent
@@ -1076,7 +1077,7 @@
     "inlineChat.shadow": "#474747", // type:background
     "inlineChatInput.border": "#f0f",
     "inlineChatInput.focusBorder": "#f0f",
-    "inlineChatInput.placeholderForeground": "#f0f",
+    "inlineChatInput.placeholderForeground": "#888888",
     "inlineChatInput.background": "#f0f",
     "inlineChatDiff.inserted": "#f0f",
     "inlineChatDiff.removed": "#f0f",
